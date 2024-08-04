@@ -8,7 +8,7 @@ http://127.0.0.1:5500
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://codehelp-razorpay-clone.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
