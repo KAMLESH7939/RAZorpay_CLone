@@ -1726,6 +1726,10 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\(\'\.\/Images\/feature-section-2BG\.svg\'\)\] {
+  background-image: url('./Images/feature-section-2BG.svg');
+}
+
 .bg-\[url\(\'\.\/Images\/instant-settlement-bg\.svg\'\)\] {
   background-image: url('./Images/instant-settlement-bg.svg');
 }
@@ -1744,10 +1748,6 @@ video {
 
 .bg-\[url\(\'\.\/Images\/upi-autopay-bg\.svg\'\)\] {
   background-image: url('./Images/upi-autopay-bg.svg');
-}
-
-.bg-\[url\(\.\/images\/feature-section-2BG\.svg\)\] {
-  background-image: url(./images/feature-section-2BG.svg);
 }
 
 .bg-\[url\(Images\/core-features-sectionBg\.svg\)\] {
